@@ -1,0 +1,64 @@
+1. Title: Iris Plants Database
+	A small classic dataset from Fisher,1936.One of the mpst earliest known ataset used for evaluating classification informatoon.
+
+2. Sources:
+     (a) Creator: A.Unwin, K.Kleinman
+     (b) Date: 2021
+     (c) Subject Area: Biology 
+     (d): Donated: 6/30/1938
+
+3. Papers Citing this Dataset
+
+A Constructive Approach for One-Shot Training of Neural Networks Using Hypercube-Based Topological Coverings
+By W. Daniel, Enoch Yeung. 2019
+
+Published in ArXiv.
+
+Convergence and Margin of Adversarial Training on Separable Data
+By Zachary Charles, Shashank Rajput, Stephen Wright, Dimitris Papailiopoulos. 2019
+
+Published in ArXiv.
+
+CRAD: Clustering with Robust Autocuts and Depth
+By Xin Huang, Yulia Gel. 2019
+
+Published in 2017 IEEE International Conference on Data Mining (ICDM), 925--930} (2017).
+
+Deep Spiking Neural Network with Spike Count based Learning Rule
+By Jibin Wu, Yansong Chua, Malu Zhang, Qu Yang, Guoqi Li, Haizhou Li. 2019
+
+Published in ArXiv.
+
+Bounded Fuzzy Possibilistic Method
+By Hossein Yazdani. 2019
+
+Published in ArXi
+
+
+
+5. Number of Instances: 150 (50 in each of three classes)
+
+6. Number of Attributes: 4 numeric, predictive attributes and the class
+
+7. Attribute Information:
+   1. sepal length in cm
+   2. sepal width in cm
+   3. petal length in cm
+   4. petal width in cm
+   5. class: 
+      -- Iris Setosa
+      -- Iris Versicolour
+      -- Iris Virginica
+
+8. Missing Attribute Values: None
+
+Summary Statistics:
+	         Variable Name	Role	Type	Description	Units	Missing Values
+sepal length	Feature	Continuous		cm	no
+sepal width	Feature	Continuous		cm	no
+petal length	Feature	Continuous		cm	no
+petal width	Feature	Continuous		cm	no
+class	Target	Categorical	class of iris plant: Iris Setosa, Iris Versicolour, or Iris Virginica		no
+
+
+9. Class Distribution: 33.3% for each of 3 classes.
